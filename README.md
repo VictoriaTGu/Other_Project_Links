@@ -1,7 +1,5 @@
-Resume
+Other projects
 ======
-
-Other projects I've worked on:
 
 •  Harvard Labs Search Interface: (Summer 2012). Developed a search interface for Harvard students, which queries a lab database using AJAX. http://www.hcura.org/harvardlabs.php
 
