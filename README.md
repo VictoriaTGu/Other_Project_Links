@@ -13,6 +13,10 @@ Programming Languages and Technologies:
 
 •  Operating Systems: Mac OS X, Unix, Windows, Linux
 
+Relevant coursework:
+
+•  Relevant Coursework: Abstraction and Design; Theory of Computation; Probability; Intermediate Microeconomic Theory; Linear Algebra, Multivariable Calculus, Real Analysis
+
 
 
 
