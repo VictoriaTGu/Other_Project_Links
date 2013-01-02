@@ -15,7 +15,7 @@ Programming Languages and Technologies:
 
 Relevant coursework:
 
-•  Relevant Coursework: Abstraction and Design; Theory of Computation; Probability; Intermediate Microeconomic Theory; Linear Algebra, Multivariable Calculus, Real Analysis
+•  Abstraction and Design; Theory of Computation; Probability; Intermediate Microeconomic Theory; Linear Algebra, Multivariable Calculus, Real Analysis
 
 
 
