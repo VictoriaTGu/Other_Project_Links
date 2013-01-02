@@ -4,6 +4,7 @@ Resume
 Programming Languages and Technologies:
 
 •  Python, C, OCaml, R, Ruby, HTML, PHP, CSS, Javascript, Java, C#
+
 •  Operating Systems: Mac OS X, Unix, Windows, Linux
 
 Projects I'm currently working on:
