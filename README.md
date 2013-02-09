@@ -5,11 +5,12 @@ Other projects
 
 Projects I'm currently working on:
 
+•  Crimson Community app: See repository crimsoncommunity
 •  Student Community Marketplace App (Present). Central student community website for peer-to-peer commerce, will integrate social networks, search interface and recommendation engine. Ruby on Rails
 
 Programming Languages and Technologies:
 
-•  Python, C, OCaml, R, Ruby, HTML, PHP, CSS, Javascript, Java, C#
+•  Python, C/C++, OCaml, R, Ruby, HTML, PHP, CSS, Javascript, Java, C#
 
 •  Operating Systems: Mac OS X, Unix, Windows, Linux
 
