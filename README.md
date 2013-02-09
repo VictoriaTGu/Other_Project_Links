@@ -6,6 +6,7 @@ Other projects
 Projects I'm currently working on:
 
 •  Crimson Community app: See repository crimsoncommunity
+
 •  Student Community Marketplace App (Present). Central student community website for peer-to-peer commerce, will integrate social networks, search interface and recommendation engine. Ruby on Rails
 
 Programming Languages and Technologies:
